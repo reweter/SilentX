@@ -18,10 +18,10 @@ namespace Shared
 
         public const string DESKTOP_NOTE = @"";
 
-        public const string RANSOMWARE_EXTENSION = ".R1pp3d";
+        public const string RANSOMWARE_EXTENSION = ".silent";
         public const string BTC_ADDRESS = "ID";
         public const string EMAIL = "EMAIL";
-        public const decimal USD_AMOUNT = 500.157M;
+        public const decimal USD_AMOUNT = 0.0M;
 
         public const string STRING_SERVER_PUBLIC_KEY = @"";
 
