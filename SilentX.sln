@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SilentX", "Ransomware\SilentX.csproj", "{7C7D773A-7C5C-4BFB-BDD3-4C74587818F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{54B1F684-B2B4-4FC7-8899-9ACBB089F0B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C7D773A-7C5C-4BFB-BDD3-4C74587818F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7D773A-7C5C-4BFB-BDD3-4C74587818F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7D773A-7C5C-4BFB-BDD3-4C74587818F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7D773A-7C5C-4BFB-BDD3-4C74587818F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B1F684-B2B4-4FC7-8899-9ACBB089F0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B1F684-B2B4-4FC7-8899-9ACBB089F0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B1F684-B2B4-4FC7-8899-9ACBB089F0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B1F684-B2B4-4FC7-8899-9ACBB089F0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EC11EE9-8516-4F89-A2EF-78966A3F5237}
+	EndGlobalSection
+EndGlobal
